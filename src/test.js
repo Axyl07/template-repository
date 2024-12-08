@@ -1,3 +1,3 @@
 export default function () {
-    return console.log("is this working>/?")
+  return console.log("is this working>/?");
 }
