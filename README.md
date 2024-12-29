@@ -1,1 +1,4 @@
-# Template Repository for js projects with webpack,eslint and prettier configured
+
+# How to run :
+# 1. npm install
+# 2. npm run start (to run development server)
